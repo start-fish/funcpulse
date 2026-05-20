@@ -1,0 +1,23 @@
+{
+  "name": "funcpulse-skill",
+  "version": "2.0.0",
+  "description": "FuncPulse 功能验证分析技能 - 基于PRD和测试用例分析多代码仓库变更",
+  "main": "scripts/generate-validation-report.js",
+  "scripts": {
+    "generate-report": "node scripts/generate-validation-report.js"
+  },
+  "keywords": [
+    "testing",
+    "validation",
+    "requirements",
+    "traceability",
+    "multi-repo",
+    "qa"
+  ],
+  "author": "FuncPulse Team",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}

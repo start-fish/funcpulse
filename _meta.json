@@ -1,0 +1,10 @@
+{
+  "name": "funcpulse",
+  "description": "基于PRD和测试用例分析多代码仓库变更，验证每条用例是否满足预期，结合资深测试分析方法生成业务测试验证报告",
+  "version": "1.0.0",
+  "author": "xuzhenglei",
+  "created": "2026-04-14",
+  "updated": "2026-04-14",
+  "category": "testing",
+  "tags": ["PRD分析", "测试用例验证", "多仓库测试", "业务测试报告", "缺陷分析", "测试覆盖率", "用例追踪"]
+}
